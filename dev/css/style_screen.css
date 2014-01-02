@@ -1,0 +1,64 @@
+body { margin: 0; text-align: center; font-family: Georgia, serif; background: #a9dca9; }
+a { color: #8888ff; }
+
+#top { text-align: left; background: #6666ff; }
+#top h1 { width: 960px; height: 100px; overflow: hidden; text-align: left; padding: 0; margin: 0 auto; color: #FFF; background: url("../images/logo.gif") 0 0 no-repeat; }
+#top h1 span { position: absolute; left: 0; top: -500px; }
+
+#middle { text-align: left; background: #FFF; }
+
+#content { width: 960px; overflow: hidden; margin: 0 auto; padding: 20px 0; background: #FFF; }
+#content .ad-728 { width: 940px; background: #FFF; margin-left: 20px; }
+
+#left { float: left; width: 620px; overflow: hidden; }
+#left ul { padding: 0; margin: 0; list-style: none; color: #999; font-size: 11px; line-height: 16px; }
+#left li { width: 620px; overflow: hidden; margin: 0; padding: 0; clear: both; padding: 0 0 10px 0; }
+
+#right { float: left; width: 320px; overflow: hidden; font-family: Verdana, sans-serif; }
+#right h2 { font-size: 20px; font-weight: 400; color: #a9dca9; margin: 10px 20px 5px 20px; }
+#right ul { padding: 0; margin: 0; list-style: none; }
+#right li { padding: 5px 0 5px 21px; margin: 0 20px; font-size: 11px; line-height: 18px; }
+#right a:hover, #bottom a:hover { text-decoration: none; }
+
+.ad-300 { margin: 0 20px; }
+.ad-728 { width: 728px; overflow: hidden; }
+
+.icon-digg { background: url("../images/icon-digg.gif") 0 50% no-repeat; }
+.icon-delicious { background: url("../images/icon-delicious.gif") 0 50% no-repeat; }
+.icon-stumble { background: url("../images/icon-stumble.gif") 0 50% no-repeat; }
+.icon-twit { background: url("../images/icon-twit.gif") 0 50% no-repeat; }
+.icon-reddit { background: url("../images/icon-reddit.gif") 0 50% no-repeat; }
+.icon-buzz { background: url("../images/icon-buzz.gif") 0 50% no-repeat; }
+.icon-tailrank { background: url("../images/icon-tailrank.gif") 0 50% no-repeat; }
+.icon-furl { background: url("../images/icon-furl.gif") 0 50% no-repeat; }
+.icon-instapaper { background: url("../images/icon-instapaper.gif") 0 50% no-repeat; }
+.icon-mixx { background: url("../images/icon-mixx.gif") 0 50% no-repeat; }
+
+.number { float: left; width: 49px; overflow: hidden; text-align: center; font-size: 28px; line-height: 30px; color: #999; border-right: 1px solid #999; }
+
+.link { float: left; width: 560px; overflow: hidden; margin-left: 10px; }
+.link a { text-decoration: none; }
+.link a:hover { color: #000; }
+
+.sites { font-size: 11px; line-height: 18px; color: #000; font-family: Verdana, sans-serif; margin-left: 60px; }
+.sites a { color: #000; }
+
+.s-1 { font-size: 35px; line-height: 40px; }
+.s-1 a { color: #0000ff; }
+
+.s-2 { font-size: 30px; line-height: 35px; }
+.s-2 a { color: #2222ff; }
+
+.s-3 { font-size: 25px; line-height: 30px; }
+.s-3 a { color: #4444ff; }
+
+.s-4 { font-size: 20px; line-height: 25px; }
+.s-4 a { color: #6666ff; }
+
+.s-5 { font-size: 16px; line-height: 21px; }
+
+.s-6 { font-size: 13px; line-height: 18px; }
+
+#bottom { width: 960px; overflow: hidden; margin: 10px auto; text-align: left; font-size: 11px; line-height: 18px; }
+#bottom p { margin: 10px 60px; }
+#bottom a { color: #000; }
