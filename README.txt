@@ -21,5 +21,4 @@ And now you can gaze upon the hideous code that I cranked out years ago (along w
 
 More notes:
 
-* I don't have the db schema anywhere, but you can probably piece it together if you really want to.
 * The "dev" folder represents the "next" version of AggreGet. Yeah, I was dumb back then.
